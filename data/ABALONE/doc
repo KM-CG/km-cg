@@ -1,0 +1,11 @@
+I have processed this dataset!
+M=-1, I=0, F=1 (first column)
+
+obtained from: http://www.dcc.fc.up.pt/%7Eltorgo/Regression/DataSets.html
+
+
+This data set can be used to obtain a model to predict the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the number of rings which determines the age.
+
+    Source: UCI machine learning repository.
+    Characteristics: 4177 cases, 8 attributes (1 nominal, 7 continuous).
+    Download : abalone.tar.gz (53254 bytes) 

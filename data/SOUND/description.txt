@@ -1,0 +1,2 @@
+obtained from https://github.com/kd383/GPML_SLD/blob/master/demo/sound/audio_data.mat
+described in "Structured Kernel Interpolation" by Wilson and Nickich (2015)

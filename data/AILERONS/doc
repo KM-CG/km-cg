@@ -1,0 +1,7 @@
+obtained from: http://www.dcc.fc.up.pt/%7Eltorgo/Regression/DataSets.html
+
+This data set addresses a control problem, namely flying a F16 aircraft. The attributes describe the status of the aeroplane, while the goal is to predict the control action on the ailerons of the aircraft.
+
+    Source: Experiments of Rui Camacho (rcamacho@garfield.fe.up.pt).
+    Characteristics: 13750 cases (7154+6596), 40 attributes (0 nominal, 40 continuous).
+    Download : ailerons.tgz (373864 bytes) 

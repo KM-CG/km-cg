@@ -1,0 +1,5 @@
+obtained from: http://www.dcc.fc.up.pt/%7Eltorgo/Regression/elevators.html
+
+This data set is also obtained from the task of controlling a F16 aircraft, although the target variable and attributes are different from the ailerons domain. In this case the goal variable is related to an action taken on the elevators of the aircraft.
+
+Source: Experiments of Rui Camacho (rcamacho@garfield.fe.up.pt). 
